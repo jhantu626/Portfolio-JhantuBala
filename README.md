@@ -1,70 +1,86 @@
-# Getting Started with Create React App
+# Portfolio WebApp
 
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+Welcome to my Portfolio WebApp! This project showcases my professional information and achievements in an interactive and dynamic manner. Built with React Js, it provides an engaging experience for users to learn more about my skills, projects, and experiences.
 
-## Available Scripts
+## Technology Used
 
-In the project directory, you can run:
+- **React Js**
 
-### `npm start`
+## Features
 
-Runs the app in the development mode.\
-Open [http://localhost:3000](http://localhost:3000) to view it in your browser.
+### 1. **Education Section**
 
-The page will reload when you make changes.\
-You may also see any lint errors in the console.
+Highlight your educational background to provide visitors with insights into your academic achievements.
 
-### `npm test`
+### 2. **Skill Section**
 
-Launches the test runner in the interactive watch mode.\
-See the section about [running tests](https://facebook.github.io/create-react-app/docs/running-tests) for more information.
+Showcase your skills and expertise in various technologies, tools, and areas of interest.
 
-### `npm run build`
+### 3. **Profile Section**
 
-Builds the app for production to the `build` folder.\
-It correctly bundles React in production mode and optimizes the build for the best performance.
+Introduce yourself in the profile section, giving visitors a quick overview of your professional background.
 
-The build is minified and the filenames include the hashes.\
-Your app is ready to be deployed!
+### 4. **Contact Page**
 
-See the section about [deployment](https://facebook.github.io/create-react-app/docs/deployment) for more information.
+Provide a way for visitors to get in touch with you. Include contact details or a contact form for inquiries.
 
-### `npm run eject`
+### 5. **Project Section**
 
-**Note: this is a one-way operation. Once you `eject`, you can't go back!**
+Display your projects with details such as project descriptions, technologies used, and links to project repositories or live demos.
 
-If you aren't satisfied with the build tool and configuration choices, you can `eject` at any time. This command will remove the single build dependency from your project.
+### 6. **About Section**
 
-Instead, it will copy all the configuration files and the transitive dependencies (webpack, Babel, ESLint, etc) right into your project so you have full control over them. All of the commands except `eject` will still work, but they will point to the copied scripts so you can tweak them. At this point you're on your own.
+Offer more context about your interests, goals, and what motivates you professionally.
 
-You don't have to ever use `eject`. The curated feature set is suitable for small and middle deployments, and you shouldn't feel obligated to use this feature. However we understand that this tool wouldn't be useful if you couldn't customize it when you are ready for it.
+### 7. **Dark Mode and Light Mode Option**
 
-## Learn More
+Enhance user experience with the flexibility to switch between dark and light modes.
 
-You can learn more in the [Create React App documentation](https://facebook.github.io/create-react-app/docs/getting-started).
 
-To learn React, check out the [React documentation](https://reactjs.org/).
+## Getting Started
 
-### Code Splitting
+To run the Portfolio WebApp locally, follow these steps:
 
-This section has moved here: [https://facebook.github.io/create-react-app/docs/code-splitting](https://facebook.github.io/create-react-app/docs/code-splitting)
+1. Clone the repository:
 
-### Analyzing the Bundle Size
+   ```bash
+   git clone https://github.com/jhantu626/Portfolio-JhantuBala.git
 
-This section has moved here: [https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size](https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size)
 
-### Making a Progressive Web App
+```
+```
 
-This section has moved here: [https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app](https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app)
 
-### Advanced Configuration
 
-This section has moved here: [https://facebook.github.io/create-react-app/docs/advanced-configuration](https://facebook.github.io/create-react-app/docs/advanced-configuration)
+## Snapshots && Video
 
-### Deployment
+HOme Page
+![11](https://github.com/jhantu626/Portfolio-JhantuBala/assets/108252921/987d8a6f-82fa-4998-9984-efbd2454b2a3)
+![1](https://github.com/jhantu626/Portfolio-JhantuBala/assets/108252921/ce2d3b9c-b44a-44d9-b369-c9e424d68eff)
 
-This section has moved here: [https://facebook.github.io/create-react-app/docs/deployment](https://facebook.github.io/create-react-app/docs/deployment)
 
-### `npm run build` fails to minify
+Education Section
+![22](https://github.com/jhantu626/Portfolio-JhantuBala/assets/108252921/296c3d5d-6332-45df-b38d-09415252e1ba)
+![2](https://github.com/jhantu626/Portfolio-JhantuBala/assets/108252921/5d1ebac4-68e7-4030-a400-48f09f926c4e)
 
-This section has moved here: [https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify](https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify)
+Projects Section
+![33](https://github.com/jhantu626/Portfolio-JhantuBala/assets/108252921/252a9099-8937-45c9-b0e7-fff0b8f0f679)
+![3](https://github.com/jhantu626/Portfolio-JhantuBala/assets/108252921/99b1879f-83fd-49a9-9ab2-6f40e5872b1b)
+
+
+
+About Section
+![44](https://github.com/jhantu626/Portfolio-JhantuBala/assets/108252921/f0bd8304-2f76-462a-87ac-3b17f26a0cd7)
+![4](https://github.com/jhantu626/Portfolio-JhantuBala/assets/108252921/3d21a8d3-7a0c-49ee-bfa5-81d2df5e4161)
+
+
+Contact Page
+![55](https://github.com/jhantu626/Portfolio-JhantuBala/assets/108252921/e39644f7-9c52-46cc-a83e-08d17131d7c9)
+![5](https://github.com/jhantu626/Portfolio-JhantuBala/assets/108252921/dad76566-5cac-4087-8b89-697ba70bb746)
+
+
+
+
+
+
+
