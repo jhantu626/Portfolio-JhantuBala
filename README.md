@@ -13,7 +13,7 @@ To get started with the Blog API, follow these steps:
 1. Clone the repository:
 
     ```bash
-    https://github.com/jhantu626/Content-Management-API.git
+    https://github.com/jhantu626/Portfolio-JhantuBala.git
     ```
 
 2. Navigate to the project directory:
@@ -42,6 +42,9 @@ To get started with the Blog API, follow these steps:
     ```bash
     npm start
     ```
+## Live Project
+
+Go to Live Project here [here](https://pritambala.netlify.app/).
 
 ## Features
 
