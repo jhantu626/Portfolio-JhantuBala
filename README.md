@@ -6,6 +6,43 @@ Welcome to my Portfolio WebApp! This project showcases my professional informati
 
 - **React Js**
 
+## Getting Started
+
+To get started with the Blog API, follow these steps:
+
+1. Clone the repository:
+
+    ```bash
+    https://github.com/jhantu626/Content-Management-API.git
+    ```
+
+2. Navigate to the project directory:
+
+    ```bash
+    cd function-based-project
+    ```
+
+3. Install dependencies
+
+    ```bash
+    npm install
+    ```
+    ```bash
+    npm i bootstrap
+    ```
+    ```bash
+    npm i lottie-react
+    ```
+    ```bash
+    npm i react-simple-typewriter
+    ```
+
+4. Run the application:
+
+    ```bash
+    npm start
+    ```
+
 ## Features
 
 ### 1. **Education Section**
@@ -37,22 +74,16 @@ Offer more context about your interests, goals, and what motivates you professio
 Enhance user experience with the flexibility to switch between dark and light modes.
 
 
-## Getting Started
-
-To run the Portfolio WebApp locally, follow these steps:
-
-1. Clone the repository:
-
-   ```bash
-   git clone https://github.com/jhantu626/Portfolio-JhantuBala.git
-
-
-```
-```
 
 
 
 ## Snapshots && Video
+1. **Video Preview**
+   
+
+https://github.com/jhantu626/Portfolio-JhantuBala/assets/108252921/a3ca195a-80e9-498d-9a1a-aeb3e8dc151b
+
+
 
 HOme Page
 ![11](https://github.com/jhantu626/Portfolio-JhantuBala/assets/108252921/987d8a6f-82fa-4998-9984-efbd2454b2a3)
