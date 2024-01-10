@@ -81,34 +81,33 @@ Enhance user experience with the flexibility to switch between dark and light mo
 
 
 ## Snapshots && Video
-1. **Video Preview**
+## Project Video Preview
    
 
 https://github.com/jhantu626/Portfolio-JhantuBala/assets/108252921/a3ca195a-80e9-498d-9a1a-aeb3e8dc151b
 
 
 
-HOme Page
+## Home Page
 ![11](https://github.com/jhantu626/Portfolio-JhantuBala/assets/108252921/987d8a6f-82fa-4998-9984-efbd2454b2a3)
 ![1](https://github.com/jhantu626/Portfolio-JhantuBala/assets/108252921/ce2d3b9c-b44a-44d9-b369-c9e424d68eff)
 
 
-Education Section
+## Education Section
 ![22](https://github.com/jhantu626/Portfolio-JhantuBala/assets/108252921/296c3d5d-6332-45df-b38d-09415252e1ba)
 ![2](https://github.com/jhantu626/Portfolio-JhantuBala/assets/108252921/5d1ebac4-68e7-4030-a400-48f09f926c4e)
 
-Projects Section
+## Projects Section
 ![33](https://github.com/jhantu626/Portfolio-JhantuBala/assets/108252921/252a9099-8937-45c9-b0e7-fff0b8f0f679)
 ![3](https://github.com/jhantu626/Portfolio-JhantuBala/assets/108252921/99b1879f-83fd-49a9-9ab2-6f40e5872b1b)
 
 
-
-About Section
+## About Section
 ![44](https://github.com/jhantu626/Portfolio-JhantuBala/assets/108252921/f0bd8304-2f76-462a-87ac-3b17f26a0cd7)
 ![4](https://github.com/jhantu626/Portfolio-JhantuBala/assets/108252921/3d21a8d3-7a0c-49ee-bfa5-81d2df5e4161)
 
 
-Contact Page
+## Contact Page
 ![55](https://github.com/jhantu626/Portfolio-JhantuBala/assets/108252921/e39644f7-9c52-46cc-a83e-08d17131d7c9)
 ![5](https://github.com/jhantu626/Portfolio-JhantuBala/assets/108252921/dad76566-5cac-4087-8b89-697ba70bb746)
 
